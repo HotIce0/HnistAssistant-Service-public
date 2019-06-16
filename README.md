@@ -23,7 +23,7 @@ Maven 构建
 # 四、数据库设计以及SQL备份
 在该项目的Github的Issue中
 
-# 五、API
+# 五、API接口文档
 在该项目的Github的Issue中
 
 # 六、实现细节
