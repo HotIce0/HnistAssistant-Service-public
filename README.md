@@ -57,3 +57,6 @@ Maven 构建
 2. 角色ID定义在`com.hotice0.hnist_assistant.db.model.BasicRole中`
 3. 相关常量一般都定义在相关的model模型中。
 4. 错误code和错误消息定义在`com.hotice0.hnist_assistant.exception.error.HAError中`
+
+# 八、部署注意
+1. 请编写好定时任务脚本，在固定时间，自动清理图片上传临时文件夹内的内容
