@@ -41,7 +41,7 @@ Maven 构建
     - BasicLoginAuthAspect切面`com.hotice0.hnist_assistant.aspect.BasicLoginAuthAspect`
 
 ## 3.学生认证实现
-- 通过学校的信息查询网站进行认证:http://uia.hnist.cn/uiauser/patch/selfServiceQuery.action
+- 通过学校的信息查询网站进行认证:http://uia.hnist.cn/main.jsp
 - 具体实现代码
     - `com.hotice0.hnist_assistant.service.hnist2_module.Hnist2UserService 类`
 
