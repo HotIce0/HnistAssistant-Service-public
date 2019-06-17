@@ -2,7 +2,7 @@
 湖理大助手，服务端
 
 # 现有小程序的前端
-![校园大助手](http://chuantu.xyz/t6/702/1560700243x3703728804.jpg)
+![校园大助手](https://raw.githubusercontent.com/HotIce0/key/master/gh_d2e388ac32de_430.jpg)
 # 一、项目构建
 Maven 构建
 
