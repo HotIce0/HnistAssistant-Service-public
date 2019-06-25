@@ -52,6 +52,9 @@ Maven 构建
     - 然后将该字符串直接拼接至SQL中，采用MySQL的正则匹配`REGEXP`对需要搜索的区域进行匹配。
 - 通过该方式实现由于是全表搜索，会对记录加锁，性能比较低，推荐通过新建立专门的搜索表，在商品创建时进行关键词提取。
 
+## 5. 关于文件上传，处理脏图片的实现说明
+- https://github.com/HotIce0/HnistAssistant-Service-public/issues/3
+
 # 七、补充说明
 1. 权限编号定义在`com.hotice0.hnist_assistant.db.model.BasicPermission中`
 2. 角色ID定义在`com.hotice0.hnist_assistant.db.model.BasicRole中`
